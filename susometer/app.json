@@ -1,0 +1,12 @@
+{
+  "name": "susometer",
+  "displayName": "susometer",
+  "expo": {
+    "name": "susometer",
+    "slug": "susometer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
